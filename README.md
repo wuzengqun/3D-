@@ -28,8 +28,8 @@ Acknowledgements
 ---
 This project is based on  
  ● https://github.com/cqu20160901/Ultra-Fast-Lane-Detection_caffe_onnx_horizon_rknn  
- ● https://blog.csdn.net/zhangqian_1/article/details/139180009
- ● https://github.com/xinzhuma/monodle
+ ● https://blog.csdn.net/zhangqian_1/article/details/139180009  
+ ● https://github.com/xinzhuma/monodle  
  ● https://github.com/cfzd/Ultra-Fast-Lane-Detection  
 Thanks to the original authors for their work!  
 
